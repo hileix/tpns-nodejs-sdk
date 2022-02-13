@@ -17,7 +17,7 @@ npm run compile
 ## Publish to npm
 
 ```shell
-npm run publish
+npm publish
 ```
 
 ## Usage
