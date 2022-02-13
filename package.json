@@ -1,8 +1,12 @@
 {
   "name": "tpns-nodejs-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "main": "lib/tpns.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hileix/tpns-nodejs-sdk"
+  },
   "dependencies": {
     "axios": "^0.25.0"
   },
